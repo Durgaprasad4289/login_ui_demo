@@ -3,23 +3,12 @@
 A **clean, modern, and fully responsive Login / Sign-In page** built using **HTML, CSS, and JavaScript**.  
 This project is **beginner-friendly** and follows a **professional GitHub repository structure**.
 
----
+----
 
 ## 🌐 Live Demo
-👉 **[Click here to view live demo](https://your-username.github.io/your-repo-name/)**
+👉 **[Click here to view live demo](https://durgaprasad4289.github.io/login_ui_demo/)**
 
-> 🔁 Replace the link with your actual **GitHub Pages URL**
-
----
-
-## 🖼️ Preview
-
-![Modern Login UI Preview](./assets/login-preview.png)
-
-> 📌 Add your screenshot inside an `assets` folder  
-> Example path: `assets/login-preview.png`
-
----
+----
 
 ## ✨ Features
 
@@ -29,7 +18,7 @@ This project is **beginner-friendly** and follows a **professional GitHub reposi
 - 🧩 Beginner-friendly code structure
 - 🔧 Easy to customize and extend
 
----
+----
 
 ## 🛠️ Technologies Used
 
@@ -37,7 +26,7 @@ This project is **beginner-friendly** and follows a **professional GitHub reposi
 - **CSS3** – Styling & responsiveness  
 - **JavaScript (ES6)** – Interactivity  
 
----
+----
 
 ## 📁 Project Structure
 Modern-Login-UI/
@@ -47,5 +36,7 @@ Modern-Login-UI/
 └── script.js
 
 ----
-## 🖼️ UI Img
+## 🖼️ Live UI Img
+<img width="1097" height="740" alt="Image" src="https://github.com/user-attachments/assets/5ed4e8af-7071-4277-af61-994e07f048f8" />
 
+<img width="1112" height="725" alt="Image" src="https://github.com/user-attachments/assets/dbd3d67c-af83-48fa-b4dc-36b9194fffc0" />
