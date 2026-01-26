@@ -41,3 +41,15 @@ Modern-Login-UI/
 <img width="548.5" height="370" alt="Image" src="https://github.com/user-attachments/assets/5ed4e8af-7071-4277-af61-994e07f048f8" />
 
 <img width="550" height="370" alt="Image" src="https://github.com/user-attachments/assets/dbd3d67c-af83-48fa-b4dc-36b9194fffc0" />
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5ed4e8af-7071-4277-af61-994e07f048f8" width="548" height="370" alt="Preview 1">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/dbd3d67c-af83-48fa-b4dc-36b9194fffc0" width="550" height="370" alt="Preview 2">
+    </td>
+  </tr>
+</table>
+
