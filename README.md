@@ -29,12 +29,13 @@ This project is **beginner-friendly** and follows a **professional GitHub reposi
 ----
 
 ## 📁 Project Structure
+```text
 Modern-Login-UI/
 │
 ├── index.html
 ├── style.css
 └── script.js
-
+```
 ----
 ## 🖼️ Live UI Img
 <img width="1097" height="740" alt="Image" src="https://github.com/user-attachments/assets/5ed4e8af-7071-4277-af61-994e07f048f8" />
